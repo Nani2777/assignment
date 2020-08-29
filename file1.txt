@@ -1,3 +1,6 @@
-Hi thi si the first file created for assignment
+Hi this is the first file created for assignment
 
 This line is from f1 branch
+
+Adding a new line from f2 branch
+
